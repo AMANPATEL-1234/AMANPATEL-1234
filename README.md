@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![pic](https://github.com/user-attachments/assets/cc64e469-8356-4f74-8cb5-17e621144b8c)
+![pic](https://github.com/user-attachments/assets/c66b29fa-7fe9-4c4f-86f0-8a54dbe25b2b)
 
 # Hi, I'm Aman 👋  
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**
