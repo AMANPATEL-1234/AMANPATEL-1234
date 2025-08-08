@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<table style="border:none;">
+<table>
 <tr>
 <td>
 # Hi, I'm Aman 👋  
