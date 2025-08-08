@@ -49,7 +49,7 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 ## 🌐 **Let's Connect**
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-patel639250/)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://689319c4c71565b30870b5ad--magnificent-cheesecake-57d811.netlify.app/)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpatel639250@gmail.com)  
+E-mail:- amanpatel639250@gmail.com 
 
 ---
 
