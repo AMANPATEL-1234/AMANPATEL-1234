@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-<table>
+<table style="border:none;">
 <tr>
 <td>
 # Hi, I'm Aman 👋  
@@ -10,7 +10,7 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 
 </td>
 <td>
-![pic](https://github.com/user-attachments/assets/c66b29fa-7fe9-4c4f-86f0-8a54dbe25b2b)
+![AI](https://github.com/user-attachments/assets/49567c23-64cb-4124-9972-7338c5c582f4)
 
 </td>
 </tr>
