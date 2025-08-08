@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-![Data Science Banner](https://i.imgur.com/Vh7E6nO.png)
+https://sdmntpritalynorth.oaiusercontent.com/files/00000000-df0c-6246-b324-ef2bd998189d/raw?se=2025-08-08T17%3A32%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=f87ccbe8-9814-5a94-9678-b392e42aa5ac&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-07T17%3A48%3A29Z&ske=2025-08-08T17%3A48%3A29Z&sks=b&skv=2024-08-04&sig=HsGFtqVLbwbfN2G4qrIFpZ4IHZJNrfqGa6Ru4%2BRFCjE%3D
 
 # Hi, I'm Aman 👋  
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**
