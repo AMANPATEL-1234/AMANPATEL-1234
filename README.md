@@ -1,20 +1,15 @@
 <!-- Profile Banner -->
-<table>
+<table style="border:none;">
 <tr>
 <td>
-
-<!-- Left column text already here -->
 # Hi, I'm Aman 👋  
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**
 
 🚀 I’m a **solution-driven Data Scientist** passionate about transforming **raw data** into actionable insights and intelligent solutions.  
 With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I aim to build impactful products that solve real-world problems.
 
-
 </td>
 <td>
-
-<!-- Right column image -->
 ![pic](https://github.com/user-attachments/assets/c66b29fa-7fe9-4c4f-86f0-8a54dbe25b2b)
 
 </td>
