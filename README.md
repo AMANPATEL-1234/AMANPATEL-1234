@@ -1,4 +1,39 @@
 <!-- Profile Banner -->
+<!-- Title / Introduction -->
+## Hi, I'm Aman Patel 👋  
+🚀 **Data Scientist | Machine Learning & Deep Learning Enthusiast**  
+
+I specialize in turning data into actionable insights using tools like **NumPy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, Keras**, and more.  
+Passionate about solving problems, building models, and visualizing complex datasets.  
+
+- 📊 Skilled in Machine Learning, Deep Learning, and Statistics  
+- 🛠 Tools: Python, MySQL, Excel, NumPy, Pandas, Matplotlib, Seaborn, TensorFlow, Keras  
+- 🤖 Interested in AI, Robotics, and LLMs  
+- 📬 Reach me at **your_email@example.com**  
+
+<!-- Two-column layout using HTML -->
+<table>
+<tr>
+<td>
+
+<!-- Left column text already here -->
+
+</td>
+<td>
+
+<!-- Right column image -->
+<img src="https://your-image-link-here.png" alt="Data Science Illustration" width="400"/>
+
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 ![pic](https://github.com/user-attachments/assets/c66b29fa-7fe9-4c4f-86f0-8a54dbe25b2b)
 
 # Hi, I'm Aman 👋  
@@ -13,7 +48,7 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 - 📊 Specializing in **data analysis, predictive modeling, and AI solutions**  
 - 🧠 Experienced in **Python, SQL, and cloud-based analytics**  
 - 🛠 Skilled in **data cleaning, feature engineering, and model deployment**  
-- 📈 Strong advocate of **data storytelling** to drive decision-making  
+- 📈 Strong advocate of **data storytelling** to drive decision-making 
 - 🎯 Always learning & exploring **cutting-edge AI research**  
 
 ---
