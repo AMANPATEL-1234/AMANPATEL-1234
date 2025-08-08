@@ -1,5 +1,5 @@
 <!-- Profile Banner -->
-https://sdmntpritalynorth.oaiusercontent.com/files/00000000-df0c-6246-b324-ef2bd998189d/raw?se=2025-08-08T17%3A32%3A34Z&sp=r&sv=2024-08-04&sr=b&scid=f87ccbe8-9814-5a94-9678-b392e42aa5ac&skoid=f71d6506-3cac-498e-b62a-67f9228033a9&sktid=a48cca56-e6da-484e-a814-9c849652bcb3&skt=2025-08-07T17%3A48%3A29Z&ske=2025-08-08T17%3A48%3A29Z&sks=b&skv=2024-08-04&sig=HsGFtqVLbwbfN2G4qrIFpZ4IHZJNrfqGa6Ru4%2BRFCjE%3D
+
 
 # Hi, I'm Aman 👋  
 **Data Scientist | Machine Learning Enthusiast | AI Innovator**
@@ -30,7 +30,7 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
 ---
 
@@ -41,17 +41,15 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 
 ---
 
-## 📌 **Featured Projects**
-- 🧠 [Machine Learning Model for Predictive Analytics](#)
-- 📊 [Data Visualization Dashboard](#)
-- 🤖 [AI-powered Recommendation System](#)
+## 📌 **Recent Projects**
+- 🧠 https://github.com/AMANPATEL-1234/Book_Store_Analysis
 
 ---
 
 ## 🌐 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://your-portfolio-link.com)  
-[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-patel639250/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://689319c4c71565b30870b5ad--magnificent-cheesecake-57d811.netlify.app/)  
+[![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amanpatel639250@gmail.com)  
 
 ---
 
