@@ -12,7 +12,7 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 ## 💡 **About Me**
 - 📊 Specializing in **data analysis, predictive modeling, and AI solutions**  
 - 🧠 Experienced in **Python, SQL, and cloud-based analytics**  
-- 🛠 Skilled in **data cleaning, feature engineering, and model deployment**  
+- 🛠 Skilled in **data cleaning, feature engineering, and model building**  
 - 📈 Strong advocate of **data storytelling** to drive decision-making 
 - 🎯 Always learning & exploring **cutting-edge AI research**  
 
