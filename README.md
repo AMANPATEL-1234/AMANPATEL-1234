@@ -48,8 +48,7 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 ---
 
 ## 📌 **Recent Projects**
-- 🧠 https://github.com/AMANPATEL-1234/Book_Store_Analysis
-
+- 🧠[ https://github.com/AMANPATEL-1234/Book_Store_Analysis](https://github.com/AMANPATEL-1234/Automatic_Data_Analyzer_App)
 ---
 
 ## 🌐 **Let's Connect**
