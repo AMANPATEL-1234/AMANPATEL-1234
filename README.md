@@ -38,6 +38,8 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/YourUsername)
+
 ---
 
 ## 📊 **GitHub Stats**
@@ -48,13 +50,12 @@ With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I
 ---
 
 ## 📌 **Recent Projects**
-- 🧠(https://github.com/AMANPATEL-1234/Automatic_Data_Analyzer_App)
+- 🧠 https://github.com/AMANPATEL-1234/Automatic_Data_Analyzer_App
 ---
 
 ## 🌐 **Let's Connect**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-patel639250/)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://689319c4c71565b30870b5ad--magnificent-cheesecake-57d811.netlify.app/)  
-E-mail:- amanpatel639250@gmail.com 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aman-patel639250/) [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=firefox&logoColor=white)](https://689319c4c71565b30870b5ad--magnificent-cheesecake-57d811.netlify.app/) **E-mail:** amanpatel639250@gmail.com
+
 
 ---
 
