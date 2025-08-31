@@ -2,7 +2,7 @@
   ![AI](https://github.com/user-attachments/assets/49567c23-64cb-4124-9972-7338c5c582f4)
 
 # Hi, I'm Aman 👋  
-**Data Scientist | Machine Learning Enthusiast | AI Innovator**
+** Data Analyst | Data Scientist | Machine Learning Enthusiast | AI Innovator**
 
 🚀 I’m a **solution-driven Data Scientist** passionate about transforming **raw data** into actionable insights and intelligent solutions.  
 With expertise in **Machine Learning, Deep Learning, and Data Visualization**, I aim to build impactful products that solve real-world problems.
